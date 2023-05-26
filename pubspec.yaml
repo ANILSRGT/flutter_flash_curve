@@ -1,0 +1,21 @@
+name: flutter_flash_curve
+description: A new Flutter package with a flash curve animation.
+version: 0.0.1
+homepage: https://github.com/ANILSRGT/flutter_flash_curve
+funding:
+  - https://www.buymeacoffee.com/ANILSRGT
+
+environment:
+  sdk: ">=3.1.0-107.0.dev <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
