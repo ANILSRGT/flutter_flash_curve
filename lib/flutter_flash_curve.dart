@@ -1,4 +1,4 @@
-library flash_curve;
+library flutter_flash_curve;
 
 import 'dart:math' as math;
 

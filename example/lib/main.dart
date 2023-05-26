@@ -1,7 +1,8 @@
 import 'dart:math' as math;
 import 'dart:ui';
+
 import 'package:flutter/material.dart';
-import 'package:flutter_flash_curve/flash_curve.dart';
+import 'package:flutter_flash_curve/flutter_flash_curve.dart';
 
 void main() => runApp(const MyApp());
 
