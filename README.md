@@ -4,9 +4,9 @@ A Flutter package to create a flash curve animation.
 
 <p align="center">
 <img src="https://github.com/ANILSRGT/flutter_flash_curve/raw/main/example/assets/gifs/opacity_flash.gif" alt="opacityFlash" title="FlashCurveAnimType.opacity" height="500"/>
-<img src="https://github.com/ANILSRGT/flutter_flash_curve/raw/main/example/assets/gifs/opacity_flash.gif" alt="scaleFlash" title="FlashCurveAnimType.scale" height="500"/>
-<img src="https://github.com/ANILSRGT/flutter_flash_curve/raw/main/example/assets/gifs/opacity_flash.gif" alt="translateFlash" title="FlashCurveAnimType.translate" height="500"/>
-<img src="https://github.com/ANILSRGT/flutter_flash_curve/raw/main/example/assets/gifs/opacity_flash.gif" alt="rotateFlash" title="FlashCurveAnimType.rotate" height="500"/>
+<img src="https://github.com/ANILSRGT/flutter_flash_curve/raw/main/example/assets/gifs/scale_flash.gif" alt="scaleFlash" title="FlashCurveAnimType.scale" height="500"/>
+<img src="https://github.com/ANILSRGT/flutter_flash_curve/raw/main/example/assets/gifs/translate_flash.gif" alt="translateFlash" title="FlashCurveAnimType.translate" height="500"/>
+<img src="https://github.com/ANILSRGT/flutter_flash_curve/raw/main/example/assets/gifs/rotate_flash.gif" alt="rotateFlash" title="FlashCurveAnimType.rotate" height="500"/>
 </p>
 
 ## 📱 Usage
