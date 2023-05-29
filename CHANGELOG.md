@@ -13,3 +13,7 @@
 ## 0.0.4
 
 - TODO: Edit readme.md (gif preview problem)
+
+## 0.0.5
+
+- TODO: Edit readme.md (gifs fix)
